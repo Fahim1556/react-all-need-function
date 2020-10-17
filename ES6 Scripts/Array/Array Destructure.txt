@@ -1,0 +1,7 @@
+
+		let array = ['Html', 'Css','php','Laravel'];
+		
+
+		let [firstValue, secondOne] = array;
+
+		console.log(firstValue, secondOne);
